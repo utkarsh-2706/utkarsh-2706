@@ -16,6 +16,12 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<h1 align="center">Utkarsh Sharma</h1>
+
+<p align="center">
+  <strong>AI/ML Enthusiast | Problem Solver | Pre-Final Year CSE Student</strong>
+</p>
+
 ---
 
 ## 🚀 About Me  
@@ -28,34 +34,19 @@ I enjoy working on **AI/ML, NLP, Deep Learning, and Algorithmic Optimization**. 
 
 ---
 
-## 🔥 Tech Stack & Skills  
+## 🔑 Key Skills  
 
-### 💻 Languages & Frameworks  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>  
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Streamlit_logo.svg" alt="Streamlit" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_PowerPoint_2013-2019_logo.svg" alt="PowerPoint" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Canva_logo.svg" alt="Canva" width="60" height="60"/> </p>
 
-### 🛠️ Tools & Technologies  
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>  
+---
 
-### 📌 Version Control & Cloud  
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>  
+### 🔥 What I Do  
+
+- 💡 **AI & ML Development** – Building intelligent systems for **real-world applications**.  
+- 🏆 **Hackathon Finalist** – **Luminous Techno-X Finalist 2024**, **Smart BU Hackathon 2024 (7th Place)**.  
+- 🛠️ **Tech Stack** – Python, C++, TensorFlow, LangChain, Flask, Streamlit, SQL, AWS.  
+- ⚡ **Problem-Solving & DSA** – **Knight @Leetcode (1852+ rating)** | **400+ problems solved in C++**.  
+- 💼 **Industry Experience** – **Data Science Intern at Coincent.ai**, optimizing predictive models with 85%+ accuracy.  
 
 ---
 
