@@ -16,8 +16,8 @@ I'm a **Computer Science student** passionate about solving complex problems wit
 📝 **Sentiment Analysis** – Achieved **96.58% accuracy** using NLP and Deep Learning.  
 
 ### 📊 DSA and Problem Solving  
-- 🏅 **LeetCode Profile** – [LeetCode]((https://leetcode.com/u/utkarshsharma27/))  
-- ⚡ **Codolio Profile** – [Codolio]((https://codolio.com/profile/utkarsh27))  
+- 🏅 **LeetCode Profile** – (https://leetcode.com/u/utkarshsharma27/) 
+- ⚡ **Codolio Profile** – (https://codolio.com/profile/utkarsh27)
 
 ### 📌 Lets Connect: 
 - **LinkedIn** – [LinkedIn Profile](https://www.linkedin.com/in/utkarsh-sharma-53b77b243/)
