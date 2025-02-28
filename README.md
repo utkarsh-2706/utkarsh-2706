@@ -18,10 +18,6 @@
 
 <h1 align="center">Utkarsh Sharma</h1>
 
-<p align="center">
-  <strong>AI/ML Enthusiast | Problem Solver | Pre-Final Year CSE Student</strong>
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -36,7 +32,20 @@ I enjoy working on **AI/ML, NLP, Deep Learning, and Algorithmic Optimization**. 
 
 ## 🔑 Key Skills  
 
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Streamlit_logo.svg" alt="Streamlit" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_PowerPoint_2013-2019_logo.svg" alt="PowerPoint" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Canva_logo.svg" alt="Canva" width="60" height="60"/> </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="60" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="SQL" width="60" height="60"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="TensorFlow" width="60" height="60"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" width="60" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="60" height="60"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" width="60" height="60"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Streamlit_logo.svg" title="Streamlit" width="100" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="60" height="60"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" title="Excel" width="60" height="60"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_PowerPoint_2013-2019_logo.svg" title="PowerPoint" width="60" height="60"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Canva_logo.svg" title="Canva" width="100" height="60"/> &nbsp;
+</p>
 
 ---
 
